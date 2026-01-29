@@ -129,8 +129,6 @@ Tests cover:
 - ✅ Utils (widgetRegistry, errorHandler)
 - ✅ Type guards
 
-See [tests/README.md](./tests/README.md) for more details.
-
 ## Building for Production
 
 ```bash
